@@ -10,6 +10,8 @@ The main idea is
  - keep the quantization bit for activation over 4-bit since quantization under 4-bit occur unstablility of convergence.
  
 # our experimental Results for SSPQ 50 
+This figure shows the SSPQ 50 light-weight model performance in the metric of accuracy and model size.
+![performance](https://github.com/Eunhui-Kim/SSPQ/Fig4.PNG)
 
  
 # pre-requisite
