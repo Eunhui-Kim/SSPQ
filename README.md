@@ -11,7 +11,7 @@ The main idea is
  
 # our experimental Results for SSPQ 50 
 This figure shows the SSPQ 50 light-weight model performance in the metric of accuracy and model size.
-![performance](https://github.com/Eunhui-Kim/SSPQ/blob/main/Fig4.png)
+![performance](https://github.com/Eunhui-Kim/SSPQ/blob/main/Fig4-s.png)
 
  
 # pre-requisite
